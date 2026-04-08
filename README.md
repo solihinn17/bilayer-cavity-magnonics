@@ -8,9 +8,6 @@ this GitHub repository address:
 <strong>solihinn17/bilayer-cavity-magnonics</strong>
 
 Contributors:
-
-\begin{itemize}
-    \item Solihin <a href="mailto:solihin1717.wonomulyo@gmail.com">solihin1717 [dot] wonomulyo [at] gmail [dot] com </a>
-    \item Ahmad Ridwan Tresna Nugraha <a href="mailto:art.nugraha@gmail.com">art [dot] nugraha [at] gmail [dot] com </a>
-    \item Muhammad Aziz Majidi <a href="mailto:aziz.majidi@sci.ui.ac.id"> aziz [dot] majidi [at] sci [dot] ui [dot] ac [dot] id </a>
-\end{\itemize}
+- Solihin <a href="mailto:solihin1717.wonomulyo@gmail.com">solihin1717 [dot] wonomulyo [at] gmail [dot] com </a>
+- Ahmad Ridwan Tresna Nugraha <a href="mailto:art.nugraha@gmail.com">art [dot] nugraha [at] gmail [dot] com </a>
+- Muhammad Aziz Majidi <a href="mailto:aziz.majidi@sci.ui.ac.id"> aziz [dot] majidi [at] sci [dot] ui [dot] ac [dot] id </a>
